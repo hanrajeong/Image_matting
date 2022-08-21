@@ -1,3 +1,13 @@
+This is done for the assignment of CMPT361 course in SFU by Kangkang Yin Professor.  
+
+It consits 2 parts:  
+Part1: Green screen matting for Virtual Tourism  
+Part 2: Image Blending  
+
+For the code, it is implemented in Matlab.  
+
+About the input files for each Matlab:  
+
 For part 1.
 input images
 -> myself
