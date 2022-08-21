@@ -1,10 +1,21 @@
 This is done for the assignment of CMPT361 course in SFU by Kangkang Yin Professor.  
 
-It consits 2 parts:  
+It consits 2 parts implemented in Matlab:  
 Part1: Green screen matting for Virtual Tourism  
 Part 2: Image Blending  
 
-For the code, it is implemented in Matlab.  
+For the part 1:  
+1. Binary matting. 
+<img width="1012" alt="binary" src="https://user-images.githubusercontent.com/87463803/185773063-abc81467-7e23-4975-b4a8-d49b34251bb8.png">
+
+2. Non-binary matting. 
+<img width="1160" alt="non-binary" src="https://user-images.githubusercontent.com/87463803/185773074-0dbb0426-8f84-4825-881b-80e510a93303.png">
+
+For the part 2:
+Blended image 1.  
+![blended1](https://user-images.githubusercontent.com/87463803/185773082-55b30d2c-fe69-4e60-912e-b224071f19b7.png)
+Blended image 2.  
+<img width="677" alt="blended2" src="https://user-images.githubusercontent.com/87463803/185773094-5bd04fd4-2255-4edd-8469-a107f3b1fa02.png">
 
 About the input files for each Matlab:  
 
